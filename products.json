@@ -1,0 +1,75 @@
+{
+    "items": [
+        {
+        "sys": {"id":"1"},
+        "fields":{
+            "title":"Python Programming Course",
+            "price": 120,
+            "image":{"fields":{"file":{"url":"images/python.png"}}}
+        }
+    },
+
+    {
+        "sys": {"id":"2"},
+        "fields":{
+            "title":"C Course",
+            "price": 70,
+            "image":{"fields":{"file":{"url":"images/c.png"}}}
+        }
+    },
+
+    {
+        "sys": {"id":"3"},
+        "fields":{
+            "title":"Java Crash Course",
+            "price": 100,
+            "image":{"fields":{"file":{"url":"images/java.jpg"}}}
+        }
+    },
+
+    {
+        "sys": {"id":"4"},
+        "fields":{
+            "title":"C++  MasterCourse",
+            "price": 90,
+            "image":{"fields":{"file":{"url":"images/c++.jpeg"}}}
+        }
+    },
+
+    {
+        "sys": {"id":"5"},
+        "fields":{
+            "title":"Web Development Course for Beginners",
+            "price": 80.99,
+            "image":{"fields":{"file":{"url":"images/web1.jpeg"}}}
+        }
+    },
+
+    {
+        "sys": {"id":"6"},
+        "fields":{
+            "title":"Digital Marketing Course",
+            "price": 102.99,
+            "image":{"fields":{"file":{"url":"images/digital.jpeg"}}}
+        }
+    },
+
+    {
+        "sys": {"id":"7"},
+        "fields":{
+            "title":"Advanced Web Development",
+            "price": 189.99,
+            "image":{"fields":{"file":{"url":"images/web2.jpeg"}}}
+        }
+    },
+
+    {
+        "sys": {"id":"8"},
+        "fields":{
+            "title":"Data Structures and Algorithm Course",
+            "price": 185.99,
+            "image":{"fields":{"file":{"url":"images/data.jpeg"}}}
+        }
+    }
+    ]
+}
